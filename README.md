@@ -10,12 +10,19 @@ droping duplicated rows
 Once we have cleaned up our data a bit, we move the data exploration section. 
 # Questions :
 1- Which app has the most reviews?
+
 2- What category has the highest number of apps uploaded to the store?
+
 3-To which category belongs the most expensive app?
+
 4- What's the name of the most expensive game?
+
 5-Which is the most popular Finance App?
+
 6-What Teen Game has the most reviews?
+
 7- How many Tb (tebibytes) were transferred (overall) for the most popular Lifestyle app?
+
 # tools i used:
 1. Python:
    - Primary programming language for data analysis.
@@ -35,13 +42,12 @@ Once we have cleaned up our data a bit, we move the data exploration section.
      
 # techniqes used:
 To answer these questions we walk through many different pandas & matplotlib methods. They include:
-Adding column
-format category column
-Parsing cells as strings to make new columns (.str)
-Using the .apply() and lambda methods
-Using groupby to perform aggregate analysis
-Plotting bar charts and lines graphs to visualize our results
-Labeling our graphs
+1-Adding column
+2-format category column
+3-Parsing cells as strings to make new columns (.str)
+4-Using the .apply() and lambda methods
+5-Using groupby to perform aggregate analysis
+6-Plotting bar charts and lines graphs to visualize our results
 
 # conclusions
 
