@@ -43,10 +43,15 @@ Once we have cleaned up our data a bit, we move the data exploration section.
 # techniqes used:
 To answer these questions we walk through many different pandas & matplotlib methods. They include:
 1-Adding column
+
 2-format category column
+
 3-Parsing cells as strings to make new columns (.str)
+
 4-Using the .apply() and lambda methods
+
 5-Using groupby to perform aggregate analysis
+
 6-Plotting bar charts and lines graphs to visualize our results
 
 # conclusions
